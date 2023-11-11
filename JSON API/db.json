@@ -1,0 +1,44 @@
+{
+  "phones":[
+    {
+      "marca": "Apple",
+      "modelo": "Iphone 15 Pro max",
+      "ano": "2023",
+      "usado": false,
+      "preco": {
+        "novo": 12000,
+        "usado": 10000 
+      }
+    },
+    {
+      "marca": "Apple",
+      "modelo": "Iphone 14 Pro max",
+      "ano": "2022",
+      "usado": false,
+      "preco": {
+        "novo": 8000,
+        "usado": 6000 
+      }
+    },
+    {
+      "marca": "Samsung",
+      "modelo": "Galaxy Z Fold 5",
+      "ano": "2023",
+      "usado": false,
+      "preco": {
+        "novo": 12000,
+        "usado": 9000 
+      }
+    },
+    {
+      "marca": "Samsung",
+      "modelo": "Galaxy S23 Ultra",
+      "ano": "2023",
+      "usado": false,
+      "preco": {
+        "novo": 7000,
+        "usado": 5000 
+      }
+    }
+  ]
+}
